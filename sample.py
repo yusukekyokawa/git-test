@@ -3,3 +3,6 @@ import matplotlib
 
 def a():
   pass
+
+def b():
+  pass
